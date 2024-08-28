@@ -23,29 +23,14 @@ This repository contains a Python implementation of the classic Tic-Tac-Toe game
    git clone https://github.com/yourusername/tic-tac-toe-ai.git
    cd tic-tac-toe-ai
    \`\`\`
+   
 
-2. Run the game:
-
-   \`\`\`bash
-   python bootcamp_AI.ipynb
-   \`\`\`
-
-3. Follow the on-screen instructions to play the game.
+2. Follow the on-screen instructions to play the game.
 
 ## How to Play
 
 - **Single-Player**: Choose the single-player mode to play against the computer. You will play as 'X', and the computer will play as 'O'.
 - **Multiplayer**: Choose the multiplayer mode to play against another human player. The first player will be 'X', and the second player will be 'O'.
-
-The game will prompt you to enter a position (1-9) to place your marker on the board. The positions correspond to the following layout:
-
-\`\`\`
-1 | 2 | 3
----------
-4 | 5 | 6
----------
-7 | 8 | 9
-\`\`\`
 
 ## Contributing
 
