@@ -15,7 +15,7 @@ This repository contains a Python implementation of the classic Tic-Tac-Toe game
 
 - Python 3.x
 
-## How to Play
+## Modes
 
 - **Single-Player**: Choose the single-player mode to play against the computer. You will play as 'X', and the computer will play as 'O'.
 - **Multiplayer**: Choose the multiplayer mode to play against another human player. The first player will be 'X', and the second player will be 'O'.
