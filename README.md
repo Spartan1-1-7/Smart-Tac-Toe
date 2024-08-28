@@ -15,18 +15,6 @@ This repository contains a Python implementation of the classic Tic-Tac-Toe game
 
 - Python 3.x
 
-## How to Run
-
-1. Clone the repository:
-
-   \`\`\`bash
-   git clone https://github.com/yourusername/tic-tac-toe-ai.git
-   cd tic-tac-toe-ai
-   \`\`\`
-   
-
-2. Follow the on-screen instructions to play the game.
-
 ## How to Play
 
 - **Single-Player**: Choose the single-player mode to play against the computer. You will play as 'X', and the computer will play as 'O'.
@@ -36,6 +24,3 @@ This repository contains a Python implementation of the classic Tic-Tac-Toe game
 
 Contributions are welcome! Please fork this repository, make your changes, and submit a pull request.
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
